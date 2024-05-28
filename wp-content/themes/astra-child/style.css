@@ -1,0 +1,15 @@
+/*
+Theme Name:     Ровер їде ровер їде
+Theme URI:      http://favgear.gamenix.store/
+Description:    Дочірня тема Ровер їде 
+Author:         Мишко
+Author URI:     http://favgear.gamenix.store
+Template:       astra
+Version:        1.0.0
+*/
+
+@import url("../astra/style.css");
+
+.body{
+    background-color: white;
+}

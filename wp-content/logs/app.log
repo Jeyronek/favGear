@@ -1,0 +1,512 @@
+
+11-05-2024 16:50:36 [favgear.gamenix.store][info] Parent plugin start installation!
+11-05-2024 16:50:36 [favgear.gamenix.store][info] Plugin installation: try create plugin tables.
+																	-DB Version: 0
+																	-Plugin Version in DB: 0
+																	-Current Plugin Version: 1.6.9
+11-05-2024 16:50:36 [favgear.gamenix.store][info] Parent plugin installation complete!
+-------------------------------
+11-05-2024 16:55:34 [favgear.gamenix.store][info] Start cron job. Scope: media-library
+11-05-2024 16:55:34 [favgear.gamenix.store][info] Try to create backup directory. Backup dir: (/home/ji533578/gamenix.store/favgear/wp-content/uploads/wio_backup)
+11-05-2024 16:55:34 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/woocommerce-placeholder.png) to a remote server (server_1).
+11-05-2024 16:55:35 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:55:35 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/woocommerce-placeholder-150x150.png) to a remote server (server_1).
+11-05-2024 16:55:35 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:55:35 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/woocommerce-placeholder-300x300.png) to a remote server (server_1).
+11-05-2024 16:55:35 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:55:35 [favgear.gamenix.store][debug] New queue created #1, attributes values: {"server_id":null,"object_id":"7","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":116957,"final_size":84796,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":102644,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715435735}
+11-05-2024 16:55:35 [favgear.gamenix.store][info] Try to create backup directory. Backup dir: (/home/ji533578/gamenix.store/favgear/wp-content/uploads/wio_backup/2024/04)
+11-05-2024 16:55:35 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2024/04/чупачупс.png) to a remote server (server_1).
+11-05-2024 16:55:36 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:55:36 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2024/04/чупачупс-150x150.png) to a remote server (server_1).
+11-05-2024 16:55:36 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:55:36 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2024/04/чупачупс-300x300.png) to a remote server (server_1).
+11-05-2024 16:55:36 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:55:36 [favgear.gamenix.store][debug] New queue created #2, attributes values: {"server_id":null,"object_id":"29","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":65522,"final_size":31909,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":47522,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715435736}
+11-05-2024 16:55:36 [favgear.gamenix.store][info] Try to create backup directory. Backup dir: (/home/ji533578/gamenix.store/favgear/wp-content/uploads/wio_backup/2021/03)
+11-05-2024 16:55:36 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/logo-1.png) to a remote server (server_1).
+11-05-2024 16:55:36 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:55:36 [favgear.gamenix.store][debug] New queue created #3, attributes values: {"server_id":null,"object_id":"35","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":6130,"final_size":3629,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":6130,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715435736}
+11-05-2024 16:55:36 [favgear.gamenix.store][info] End cron job. Scope: media-library
+-------------------------------
+11-05-2024 16:56:29 [favgear.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 16:56:29 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/bike-pic.jpg) to a remote server (server_1).
+11-05-2024 16:56:30 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:30 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/bike-pic-150x150.jpg) to a remote server (server_1).
+11-05-2024 16:56:30 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:30 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/bike-pic-300x200.jpg) to a remote server (server_1).
+11-05-2024 16:56:30 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:30 [favgear.gamenix.store][debug] New queue created #4, attributes values: {"server_id":null,"object_id":"69","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":252802,"final_size":248351,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":236059,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715435790}
+11-05-2024 16:56:30 [favgear.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 46
+-------------------------------
+11-05-2024 16:56:31 [favgear.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 16:56:31 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/about-us-min.jpg) to a remote server (server_1).
+11-05-2024 16:56:31 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:31 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/about-us-min-150x150.jpg) to a remote server (server_1).
+11-05-2024 16:56:31 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:32 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/about-us-min-300x177.jpg) to a remote server (server_1).
+11-05-2024 16:56:32 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:32 [favgear.gamenix.store][debug] New queue created #5, attributes values: {"server_id":null,"object_id":"232","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":113610,"final_size":112414,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":98711,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715435792}
+11-05-2024 16:56:32 [favgear.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 45
+-------------------------------
+11-05-2024 16:56:32 [favgear.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 16:56:32 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/about-us-min-2.jpg) to a remote server (server_1).
+11-05-2024 16:56:33 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:33 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/about-us-min-2-150x150.jpg) to a remote server (server_1).
+11-05-2024 16:56:33 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:33 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/about-us-min-2-300x198.jpg) to a remote server (server_1).
+11-05-2024 16:56:33 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:33 [favgear.gamenix.store][debug] New queue created #6, attributes values: {"server_id":null,"object_id":"243","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":145897,"final_size":144458,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":122695,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715435793}
+11-05-2024 16:56:33 [favgear.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 44
+-------------------------------
+11-05-2024 16:56:34 [favgear.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 16:56:34 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/our-service-min.jpg) to a remote server (server_1).
+11-05-2024 16:56:34 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:34 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/our-service-min-150x150.jpg) to a remote server (server_1).
+11-05-2024 16:56:35 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:35 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/our-service-min-300x225.jpg) to a remote server (server_1).
+11-05-2024 16:56:35 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:35 [favgear.gamenix.store][debug] New queue created #7, attributes values: {"server_id":null,"object_id":"268","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":242883,"final_size":241438,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":214823,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715435795}
+11-05-2024 16:56:35 [favgear.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 43
+-------------------------------
+11-05-2024 16:56:35 [favgear.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 16:56:35 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/bike-pic-minjpg.jpg) to a remote server (server_1).
+11-05-2024 16:56:36 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:36 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/bike-pic-minjpg-150x150.jpg) to a remote server (server_1).
+11-05-2024 16:56:36 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:36 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/bike-pic-minjpg-300x200.jpg) to a remote server (server_1).
+11-05-2024 16:56:36 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:36 [favgear.gamenix.store][debug] New queue created #8, attributes values: {"server_id":null,"object_id":"344","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":127529,"final_size":126485,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":105250,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715435796}
+11-05-2024 16:56:36 [favgear.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 42
+-------------------------------
+11-05-2024 16:56:37 [favgear.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 16:56:37 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/bike-1.jpg) to a remote server (server_1).
+11-05-2024 16:56:37 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:37 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/bike-1-150x150.jpg) to a remote server (server_1).
+11-05-2024 16:56:37 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:37 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/bike-1-300x200.jpg) to a remote server (server_1).
+11-05-2024 16:56:37 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:38 [favgear.gamenix.store][debug] New queue created #9, attributes values: {"server_id":null,"object_id":"436","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":339208,"final_size":338123,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":314314,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715435798}
+11-05-2024 16:56:38 [favgear.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 41
+-------------------------------
+11-05-2024 16:56:38 [favgear.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 16:56:38 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/bike-2-1.jpg) to a remote server (server_1).
+11-05-2024 16:56:38 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:39 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/bike-2-1-150x150.jpg) to a remote server (server_1).
+11-05-2024 16:56:39 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:39 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/bike-2-1-300x200.jpg) to a remote server (server_1).
+11-05-2024 16:56:39 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:39 [favgear.gamenix.store][debug] New queue created #10, attributes values: {"server_id":null,"object_id":"437","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":352995,"final_size":351313,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":322303,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715435799}
+11-05-2024 16:56:39 [favgear.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 40
+-------------------------------
+11-05-2024 16:56:40 [favgear.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 16:56:40 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/bike-55.jpg) to a remote server (server_1).
+11-05-2024 16:56:40 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:40 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/bike-55-150x150.jpg) to a remote server (server_1).
+11-05-2024 16:56:40 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:40 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/bike-55-200x300.jpg) to a remote server (server_1).
+11-05-2024 16:56:40 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:40 [favgear.gamenix.store][debug] New queue created #11, attributes values: {"server_id":null,"object_id":"517","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":192154,"final_size":190818,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":165904,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715435800}
+11-05-2024 16:56:40 [favgear.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 39
+-------------------------------
+11-05-2024 16:56:41 [favgear.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 16:56:41 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/photo-.png) to a remote server (server_1).
+11-05-2024 16:56:42 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:42 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/photo--150x150.png) to a remote server (server_1).
+11-05-2024 16:56:42 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:42 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/photo--300x151.png) to a remote server (server_1).
+11-05-2024 16:56:42 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:43 [favgear.gamenix.store][debug] New queue created #12, attributes values: {"server_id":null,"object_id":"556","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":1387491,"final_size":215603,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":1295335,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715435803}
+11-05-2024 16:56:43 [favgear.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 38
+-------------------------------
+11-05-2024 16:56:43 [favgear.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 16:56:43 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/product-2.jpg) to a remote server (server_1).
+11-05-2024 16:56:43 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:43 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/product-2-150x150.jpg) to a remote server (server_1).
+11-05-2024 16:56:44 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:44 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/product-2-300x300.jpg) to a remote server (server_1).
+11-05-2024 16:56:44 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:44 [favgear.gamenix.store][debug] New queue created #13, attributes values: {"server_id":null,"object_id":"615","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":224813,"final_size":218957,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":177681,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715435804}
+11-05-2024 16:56:44 [favgear.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 37
+-------------------------------
+11-05-2024 16:56:44 [favgear.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 16:56:44 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/product-3.jpg) to a remote server (server_1).
+11-05-2024 16:56:45 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:45 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/product-3-150x150.jpg) to a remote server (server_1).
+11-05-2024 16:56:45 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:45 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/product-3-300x300.jpg) to a remote server (server_1).
+11-05-2024 16:56:45 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:45 [favgear.gamenix.store][debug] New queue created #14, attributes values: {"server_id":null,"object_id":"617","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":165725,"final_size":162866,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":140340,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715435805}
+11-05-2024 16:56:45 [favgear.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 36
+-------------------------------
+11-05-2024 16:56:46 [favgear.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 16:56:46 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/product-4.jpg) to a remote server (server_1).
+11-05-2024 16:56:46 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:46 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/product-4-150x150.jpg) to a remote server (server_1).
+11-05-2024 16:56:46 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:46 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/product-4-300x300.jpg) to a remote server (server_1).
+11-05-2024 16:56:47 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:47 [favgear.gamenix.store][debug] New queue created #15, attributes values: {"server_id":null,"object_id":"618","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":176156,"final_size":173188,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":132860,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715435807}
+11-05-2024 16:56:47 [favgear.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 35
+-------------------------------
+11-05-2024 16:56:47 [favgear.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 16:56:48 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/bike-hero.jpg) to a remote server (server_1).
+11-05-2024 16:56:48 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:48 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/bike-hero-150x150.jpg) to a remote server (server_1).
+11-05-2024 16:56:48 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:48 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/bike-hero-300x214.jpg) to a remote server (server_1).
+11-05-2024 16:56:48 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:48 [favgear.gamenix.store][debug] New queue created #16, attributes values: {"server_id":null,"object_id":"738","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":206724,"final_size":178985,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":192214,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715435808}
+11-05-2024 16:56:48 [favgear.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 34
+-------------------------------
+11-05-2024 16:56:49 [favgear.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 16:56:49 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/bicycle-1.jpg) to a remote server (server_1).
+11-05-2024 16:56:49 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:49 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/bicycle-1-150x150.jpg) to a remote server (server_1).
+11-05-2024 16:56:49 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:49 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/bicycle-1-300x300.jpg) to a remote server (server_1).
+11-05-2024 16:56:50 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:50 [favgear.gamenix.store][debug] New queue created #17, attributes values: {"server_id":null,"object_id":"748","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":160505,"final_size":158815,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":138321,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715435810}
+11-05-2024 16:56:50 [favgear.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 33
+-------------------------------
+11-05-2024 16:56:50 [favgear.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 16:56:50 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/bicycle-4.jpg) to a remote server (server_1).
+11-05-2024 16:56:50 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:51 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/bicycle-4-150x150.jpg) to a remote server (server_1).
+11-05-2024 16:56:51 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:51 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/bicycle-4-300x300.jpg) to a remote server (server_1).
+11-05-2024 16:56:51 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:51 [favgear.gamenix.store][debug] New queue created #18, attributes values: {"server_id":null,"object_id":"749","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":157994,"final_size":156303,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":136394,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715435811}
+11-05-2024 16:56:51 [favgear.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 32
+-------------------------------
+11-05-2024 16:56:52 [favgear.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 16:56:52 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/bicycle-5.jpg) to a remote server (server_1).
+11-05-2024 16:56:52 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:52 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/bicycle-5-150x150.jpg) to a remote server (server_1).
+11-05-2024 16:56:52 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:52 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/bicycle-5-300x300.jpg) to a remote server (server_1).
+11-05-2024 16:56:53 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:53 [favgear.gamenix.store][debug] New queue created #19, attributes values: {"server_id":null,"object_id":"750","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":176785,"final_size":175777,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":150815,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715435813}
+11-05-2024 16:56:53 [favgear.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 31
+-------------------------------
+11-05-2024 16:56:53 [favgear.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 16:56:53 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/bicycle-7.jpg) to a remote server (server_1).
+11-05-2024 16:56:53 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:54 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/bicycle-7-150x150.jpg) to a remote server (server_1).
+11-05-2024 16:56:54 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:54 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/bicycle-7-300x300.jpg) to a remote server (server_1).
+11-05-2024 16:56:54 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:54 [favgear.gamenix.store][debug] New queue created #20, attributes values: {"server_id":null,"object_id":"752","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":138422,"final_size":136391,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":117735,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715435814}
+11-05-2024 16:56:54 [favgear.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 30
+-------------------------------
+11-05-2024 16:56:55 [favgear.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 16:56:55 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/accessories-4.jpg) to a remote server (server_1).
+11-05-2024 16:56:55 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:55 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/accessories-4-150x150.jpg) to a remote server (server_1).
+11-05-2024 16:56:55 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:55 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/accessories-4-300x300.jpg) to a remote server (server_1).
+11-05-2024 16:56:55 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:55 [favgear.gamenix.store][debug] New queue created #21, attributes values: {"server_id":null,"object_id":"807","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":91933,"final_size":91250,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":80477,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715435815}
+11-05-2024 16:56:55 [favgear.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 29
+-------------------------------
+11-05-2024 16:56:56 [favgear.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 16:56:56 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/accessories-3.jpg) to a remote server (server_1).
+11-05-2024 16:56:56 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:56 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/accessories-3-150x150.jpg) to a remote server (server_1).
+11-05-2024 16:56:56 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:56 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/03/accessories-3-300x300.jpg) to a remote server (server_1).
+11-05-2024 16:56:56 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:56 [favgear.gamenix.store][debug] New queue created #22, attributes values: {"server_id":null,"object_id":"810","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":106217,"final_size":105265,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":92914,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715435816}
+11-05-2024 16:56:56 [favgear.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 28
+-------------------------------
+11-05-2024 16:56:57 [favgear.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 16:56:57 [favgear.gamenix.store][info] Try to create backup directory. Backup dir: (/home/ji533578/gamenix.store/favgear/wp-content/uploads/wio_backup/2021/04)
+11-05-2024 16:56:57 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/specification-1.jpg) to a remote server (server_1).
+11-05-2024 16:56:57 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:57 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/specification-1-150x150.jpg) to a remote server (server_1).
+11-05-2024 16:56:57 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:57 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/specification-1-300x214.jpg) to a remote server (server_1).
+11-05-2024 16:56:58 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:58 [favgear.gamenix.store][debug] New queue created #23, attributes values: {"server_id":null,"object_id":"931","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":137198,"final_size":135235,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":106722,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715435818}
+11-05-2024 16:56:58 [favgear.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 27
+-------------------------------
+11-05-2024 16:56:58 [favgear.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 16:56:58 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/specification-2.jpg) to a remote server (server_1).
+11-05-2024 16:56:58 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:59 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/specification-2-150x150.jpg) to a remote server (server_1).
+11-05-2024 16:56:59 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:59 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/specification-2-300x214.jpg) to a remote server (server_1).
+11-05-2024 16:56:59 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:56:59 [favgear.gamenix.store][debug] New queue created #24, attributes values: {"server_id":null,"object_id":"932","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":107503,"final_size":104455,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":80719,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715435819}
+11-05-2024 16:56:59 [favgear.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 26
+-------------------------------
+11-05-2024 16:57:00 [favgear.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 16:57:00 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/specification-3.jpg) to a remote server (server_1).
+11-05-2024 16:57:00 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:00 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/specification-3-150x150.jpg) to a remote server (server_1).
+11-05-2024 16:57:00 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:00 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/specification-3-300x214.jpg) to a remote server (server_1).
+11-05-2024 16:57:00 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:00 [favgear.gamenix.store][debug] New queue created #25, attributes values: {"server_id":null,"object_id":"933","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":140194,"final_size":134878,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":111137,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715435820}
+11-05-2024 16:57:00 [favgear.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 25
+-------------------------------
+11-05-2024 16:57:01 [favgear.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 16:57:01 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/specification-4.jpg) to a remote server (server_1).
+11-05-2024 16:57:01 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:01 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/specification-4-150x150.jpg) to a remote server (server_1).
+11-05-2024 16:57:01 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:01 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/specification-4-300x214.jpg) to a remote server (server_1).
+11-05-2024 16:57:02 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:02 [favgear.gamenix.store][debug] New queue created #26, attributes values: {"server_id":null,"object_id":"934","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":133454,"final_size":129096,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":98123,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715435822}
+11-05-2024 16:57:02 [favgear.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 24
+-------------------------------
+11-05-2024 16:57:02 [favgear.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 16:57:02 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/specification-5.jpg) to a remote server (server_1).
+11-05-2024 16:57:03 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:03 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/specification-5-150x150.jpg) to a remote server (server_1).
+11-05-2024 16:57:03 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:03 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/specification-5-300x214.jpg) to a remote server (server_1).
+11-05-2024 16:57:03 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:03 [favgear.gamenix.store][debug] New queue created #27, attributes values: {"server_id":null,"object_id":"935","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":148380,"final_size":137124,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":117031,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715435823}
+11-05-2024 16:57:03 [favgear.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 23
+-------------------------------
+11-05-2024 16:57:04 [favgear.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 16:57:04 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/moutain-bike.jpg) to a remote server (server_1).
+11-05-2024 16:57:04 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:04 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/moutain-bike-150x150.jpg) to a remote server (server_1).
+11-05-2024 16:57:04 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:04 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/moutain-bike-300x169.jpg) to a remote server (server_1).
+11-05-2024 16:57:04 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:04 [favgear.gamenix.store][debug] New queue created #28, attributes values: {"server_id":null,"object_id":"944","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":307466,"final_size":209957,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":288169,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715435824}
+11-05-2024 16:57:04 [favgear.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 22
+-------------------------------
+11-05-2024 16:57:05 [favgear.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 16:57:05 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/city-bike.jpg) to a remote server (server_1).
+11-05-2024 16:57:05 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:06 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/city-bike-150x150.jpg) to a remote server (server_1).
+11-05-2024 16:57:06 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:06 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/city-bike-300x169.jpg) to a remote server (server_1).
+11-05-2024 16:57:06 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:06 [favgear.gamenix.store][debug] New queue created #29, attributes values: {"server_id":null,"object_id":"945","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":191518,"final_size":134956,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":180276,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715435826}
+11-05-2024 16:57:06 [favgear.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 21
+-------------------------------
+11-05-2024 16:57:06 [favgear.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 16:57:06 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/speciality-bike.jpg) to a remote server (server_1).
+11-05-2024 16:57:07 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:07 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/speciality-bike-150x150.jpg) to a remote server (server_1).
+11-05-2024 16:57:07 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:07 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/speciality-bike-300x169.jpg) to a remote server (server_1).
+11-05-2024 16:57:07 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:07 [favgear.gamenix.store][debug] New queue created #30, attributes values: {"server_id":null,"object_id":"946","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":248498,"final_size":158371,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":233854,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715435827}
+11-05-2024 16:57:07 [favgear.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 20
+-------------------------------
+11-05-2024 16:57:08 [favgear.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 16:57:08 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/join-programme.jpg) to a remote server (server_1).
+11-05-2024 16:57:08 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:08 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/join-programme-150x150.jpg) to a remote server (server_1).
+11-05-2024 16:57:09 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:09 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/join-programme-300x169.jpg) to a remote server (server_1).
+11-05-2024 16:57:09 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:09 [favgear.gamenix.store][debug] New queue created #31, attributes values: {"server_id":null,"object_id":"956","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":255109,"final_size":176981,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":236517,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715435829}
+11-05-2024 16:57:09 [favgear.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 19
+-------------------------------
+11-05-2024 16:57:09 [favgear.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 16:57:09 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/about-movie-bg-1.jpg) to a remote server (server_1).
+11-05-2024 16:57:10 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:10 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/about-movie-bg-1-150x150.jpg) to a remote server (server_1).
+11-05-2024 16:57:10 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:10 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/about-movie-bg-1-300x169.jpg) to a remote server (server_1).
+11-05-2024 16:57:10 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:10 [favgear.gamenix.store][debug] New queue created #32, attributes values: {"server_id":null,"object_id":"1018","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":409318,"final_size":270913,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":385513,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715435830}
+11-05-2024 16:57:10 [favgear.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 18
+-------------------------------
+11-05-2024 16:57:11 [favgear.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 16:57:11 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/2002.jpg) to a remote server (server_1).
+11-05-2024 16:57:11 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:11 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/2002-150x150.jpg) to a remote server (server_1).
+11-05-2024 16:57:11 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:11 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/2002-300x214.jpg) to a remote server (server_1).
+11-05-2024 16:57:12 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:12 [favgear.gamenix.store][debug] New queue created #33, attributes values: {"server_id":null,"object_id":"1030","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":132015,"final_size":126291,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":99737,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715435832}
+11-05-2024 16:57:12 [favgear.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 17
+-------------------------------
+11-05-2024 16:57:12 [favgear.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 16:57:12 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/2004-2.jpg) to a remote server (server_1).
+11-05-2024 16:57:12 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:13 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/2004-2-150x150.jpg) to a remote server (server_1).
+11-05-2024 16:57:13 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:13 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/2004-2-300x214.jpg) to a remote server (server_1).
+11-05-2024 16:57:13 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:13 [favgear.gamenix.store][debug] New queue created #34, attributes values: {"server_id":null,"object_id":"1033","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":166433,"final_size":161212,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":130673,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715435833}
+11-05-2024 16:57:13 [favgear.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 16
+-------------------------------
+11-05-2024 16:57:14 [favgear.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 16:57:14 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/2005.jpg) to a remote server (server_1).
+11-05-2024 16:57:14 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:14 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/2005-150x150.jpg) to a remote server (server_1).
+11-05-2024 16:57:14 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:14 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/2005-300x214.jpg) to a remote server (server_1).
+11-05-2024 16:57:14 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:15 [favgear.gamenix.store][debug] New queue created #35, attributes values: {"server_id":null,"object_id":"1034","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":109054,"final_size":106130,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":84091,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715435835}
+11-05-2024 16:57:15 [favgear.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 15
+-------------------------------
+11-05-2024 16:57:15 [favgear.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 16:57:15 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/2005-2.jpg) to a remote server (server_1).
+11-05-2024 16:57:15 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:15 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/2005-2-150x150.jpg) to a remote server (server_1).
+11-05-2024 16:57:16 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:16 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/2005-2-300x214.jpg) to a remote server (server_1).
+11-05-2024 16:57:16 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:16 [favgear.gamenix.store][debug] New queue created #36, attributes values: {"server_id":null,"object_id":"1035","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":174972,"final_size":161650,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":135964,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715435836}
+11-05-2024 16:57:16 [favgear.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 14
+-------------------------------
+11-05-2024 16:57:16 [favgear.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 16:57:16 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/2008.jpg) to a remote server (server_1).
+11-05-2024 16:57:17 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:17 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/2008-150x150.jpg) to a remote server (server_1).
+11-05-2024 16:57:17 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:17 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/2008-300x214.jpg) to a remote server (server_1).
+11-05-2024 16:57:17 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:17 [favgear.gamenix.store][debug] New queue created #37, attributes values: {"server_id":null,"object_id":"1036","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":98736,"final_size":93530,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":72511,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715435837}
+11-05-2024 16:57:17 [favgear.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 13
+-------------------------------
+11-05-2024 16:57:18 [favgear.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 16:57:18 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/today.jpg) to a remote server (server_1).
+11-05-2024 16:57:18 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:18 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/today-150x150.jpg) to a remote server (server_1).
+11-05-2024 16:57:18 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:18 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/today-300x214.jpg) to a remote server (server_1).
+11-05-2024 16:57:18 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:19 [favgear.gamenix.store][debug] New queue created #38, attributes values: {"server_id":null,"object_id":"1037","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":174686,"final_size":154794,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":135391,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715435839}
+11-05-2024 16:57:19 [favgear.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 12
+-------------------------------
+11-05-2024 16:57:19 [favgear.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 16:57:19 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/accessories-5.jpg) to a remote server (server_1).
+11-05-2024 16:57:19 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:19 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/accessories-5-150x150.jpg) to a remote server (server_1).
+11-05-2024 16:57:20 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:20 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/accessories-5-300x300.jpg) to a remote server (server_1).
+11-05-2024 16:57:20 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:20 [favgear.gamenix.store][debug] New queue created #39, attributes values: {"server_id":null,"object_id":"1079","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":114428,"final_size":98136,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":101547,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715435840}
+11-05-2024 16:57:20 [favgear.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 11
+-------------------------------
+11-05-2024 16:57:20 [favgear.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 16:57:20 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/accessories-4.jpg) to a remote server (server_1).
+11-05-2024 16:57:20 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:21 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/accessories-4-150x150.jpg) to a remote server (server_1).
+11-05-2024 16:57:21 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:21 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/accessories-4-300x300.jpg) to a remote server (server_1).
+11-05-2024 16:57:21 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:21 [favgear.gamenix.store][debug] New queue created #40, attributes values: {"server_id":null,"object_id":"1080","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":124589,"final_size":104392,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":111240,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715435841}
+11-05-2024 16:57:21 [favgear.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 10
+-------------------------------
+11-05-2024 16:57:22 [favgear.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 16:57:22 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/accessories-6.jpg) to a remote server (server_1).
+11-05-2024 16:57:22 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:22 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/accessories-6-150x150.jpg) to a remote server (server_1).
+11-05-2024 16:57:22 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:22 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/accessories-6-300x300.jpg) to a remote server (server_1).
+11-05-2024 16:57:22 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:22 [favgear.gamenix.store][debug] New queue created #41, attributes values: {"server_id":null,"object_id":"1081","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":132966,"final_size":106223,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":118812,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715435842}
+11-05-2024 16:57:22 [favgear.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 9
+-------------------------------
+11-05-2024 16:57:23 [favgear.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 16:57:23 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/helmet-1.jpg) to a remote server (server_1).
+11-05-2024 16:57:23 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:23 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/helmet-1-150x150.jpg) to a remote server (server_1).
+11-05-2024 16:57:23 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:23 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/helmet-1-300x300.jpg) to a remote server (server_1).
+11-05-2024 16:57:24 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:24 [favgear.gamenix.store][debug] New queue created #42, attributes values: {"server_id":null,"object_id":"1082","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":156632,"final_size":147130,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":136439,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715435844}
+11-05-2024 16:57:24 [favgear.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 8
+-------------------------------
+11-05-2024 16:57:24 [favgear.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 16:57:24 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/helmet-2.jpg) to a remote server (server_1).
+11-05-2024 16:57:24 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:25 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/helmet-2-150x150.jpg) to a remote server (server_1).
+11-05-2024 16:57:25 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:25 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/helmet-2-300x300.jpg) to a remote server (server_1).
+11-05-2024 16:57:25 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:25 [favgear.gamenix.store][debug] New queue created #43, attributes values: {"server_id":null,"object_id":"1084","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":156949,"final_size":147607,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":136697,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715435845}
+11-05-2024 16:57:25 [favgear.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 7
+-------------------------------
+11-05-2024 16:57:25 [favgear.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 16:57:25 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/helmet-3.jpg) to a remote server (server_1).
+11-05-2024 16:57:26 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:26 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/helmet-3-150x150.jpg) to a remote server (server_1).
+11-05-2024 16:57:26 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:26 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/helmet-3-300x300.jpg) to a remote server (server_1).
+11-05-2024 16:57:26 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:26 [favgear.gamenix.store][debug] New queue created #44, attributes values: {"server_id":null,"object_id":"1085","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":156839,"final_size":147471,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":136582,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715435846}
+11-05-2024 16:57:26 [favgear.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 6
+-------------------------------
+11-05-2024 16:57:27 [favgear.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 16:57:27 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/helmet-4.jpg) to a remote server (server_1).
+11-05-2024 16:57:27 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:27 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/helmet-4-150x150.jpg) to a remote server (server_1).
+11-05-2024 16:57:27 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:27 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/helmet-4-300x300.jpg) to a remote server (server_1).
+11-05-2024 16:57:27 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:28 [favgear.gamenix.store][debug] New queue created #45, attributes values: {"server_id":null,"object_id":"1086","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":154960,"final_size":145877,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":134831,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715435848}
+11-05-2024 16:57:28 [favgear.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+11-05-2024 16:57:28 [favgear.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 16:57:28 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/helmet-5.jpg) to a remote server (server_1).
+11-05-2024 16:57:28 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:28 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/helmet-5-150x150.jpg) to a remote server (server_1).
+11-05-2024 16:57:28 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:29 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/helmet-5-300x300.jpg) to a remote server (server_1).
+11-05-2024 16:57:29 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:29 [favgear.gamenix.store][debug] New queue created #46, attributes values: {"server_id":null,"object_id":"1087","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":155622,"final_size":147227,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":135330,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715435849}
+11-05-2024 16:57:29 [favgear.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+11-05-2024 16:57:29 [favgear.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 16:57:29 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/woocommerce-placeholder.png) to a remote server (server_1).
+11-05-2024 16:57:30 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:30 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/woocommerce-placeholder-150x150.png) to a remote server (server_1).
+11-05-2024 16:57:30 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:30 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2021/04/woocommerce-placeholder-300x300.png) to a remote server (server_1).
+11-05-2024 16:57:30 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:30 [favgear.gamenix.store][debug] New queue created #47, attributes values: {"server_id":null,"object_id":"1103","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":119323,"final_size":84347,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":102644,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715435850}
+11-05-2024 16:57:30 [favgear.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 3
+-------------------------------
+11-05-2024 16:57:31 [favgear.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 16:57:31 [favgear.gamenix.store][info] Try to create backup directory. Backup dir: (/home/ji533578/gamenix.store/favgear/wp-content/uploads/wio_backup/2022/01)
+11-05-2024 16:57:31 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2022/01/favicon-icon.png) to a remote server (server_1).
+11-05-2024 16:57:31 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:31 [favgear.gamenix.store][debug] New queue created #48, attributes values: {"server_id":null,"object_id":"1113","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":2477,"final_size":1188,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":2477,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715435851}
+11-05-2024 16:57:31 [favgear.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 2
+-------------------------------
+11-05-2024 16:57:31 [favgear.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 16:57:31 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2022/01/cycle-shop-social-image.jpg) to a remote server (server_1).
+11-05-2024 16:57:32 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:32 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2022/01/cycle-shop-social-image-150x150.jpg) to a remote server (server_1).
+11-05-2024 16:57:32 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:32 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2022/01/cycle-shop-social-image-300x158.jpg) to a remote server (server_1).
+11-05-2024 16:57:32 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:32 [favgear.gamenix.store][debug] New queue created #49, attributes values: {"server_id":null,"object_id":"1189","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":97403,"final_size":96448,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":84479,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715435852}
+11-05-2024 16:57:32 [favgear.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+11-05-2024 16:57:33 [favgear.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 16:57:33 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2024/04/fuji-FEATHER-2021black-1140x855-1.jpg) to a remote server (server_1).
+11-05-2024 16:57:33 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:33 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2024/04/fuji-FEATHER-2021black-1140x855-1-150x150.jpg) to a remote server (server_1).
+11-05-2024 16:57:33 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:33 [favgear.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/favgear/wp-content/uploads/2024/04/fuji-FEATHER-2021black-1140x855-1-300x225.jpg) to a remote server (server_1).
+11-05-2024 16:57:34 [favgear.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 16:57:34 [favgear.gamenix.store][debug] New queue created #50, attributes values: {"server_id":null,"object_id":"1339","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":106072,"final_size":102093,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":91522,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715435854}
+11-05-2024 16:57:34 [favgear.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 0
+-------------------------------
+11-05-2024 17:06:49 [favgear.gamenix.store][info] Restored file: /home/ji533578/gamenix.store/favgear/wp-content/uploads/wio_backup/2022/01/cycle-shop-social-image.jpg.
+11-05-2024 17:06:49 [favgear.gamenix.store][info] Restored file: /home/ji533578/gamenix.store/favgear/wp-content/uploads/wio_backup/2022/01/cycle-shop-social-image-150x150.jpg.
+11-05-2024 17:06:49 [favgear.gamenix.store][info] Restored file: /home/ji533578/gamenix.store/favgear/wp-content/uploads/wio_backup/2022/01/cycle-shop-social-image-300x158.jpg.
+11-05-2024 17:06:49 [favgear.gamenix.store][debug] Deleted queue item #49
+-------------------------------
+11-05-2024 17:06:49 [favgear.gamenix.store][info] Restored file: /home/ji533578/gamenix.store/favgear/wp-content/uploads/wio_backup/2021/04/woocommerce-placeholder.png.
+11-05-2024 17:06:49 [favgear.gamenix.store][info] Restored file: /home/ji533578/gamenix.store/favgear/wp-content/uploads/wio_backup/2021/04/woocommerce-placeholder-150x150.png.
+11-05-2024 17:06:49 [favgear.gamenix.store][info] Restored file: /home/ji533578/gamenix.store/favgear/wp-content/uploads/wio_backup/2021/04/woocommerce-placeholder-300x300.png.
+11-05-2024 17:06:49 [favgear.gamenix.store][debug] Deleted queue item #47
+-------------------------------
+11-05-2024 17:07:40 [favgear.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 17:07:40 [favgear.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 0
+-------------------------------
